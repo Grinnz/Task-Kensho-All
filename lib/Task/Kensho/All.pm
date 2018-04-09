@@ -9,11 +9,16 @@ our $VERSION = '0.001';
 
 =head1 NAME
 
-Task::Kensho::All - Module abstract
+Task::Kensho::All - Install all of Task::Kensho
 
 =head1 SYNOPSIS
 
+  cpanm Task::Kensho::All
+
 =head1 DESCRIPTION
+
+Installs every sub-task of L<Task::Kensho>. Don't use this unless you really
+want everything.
 
 =head1 BUGS
 
@@ -33,3 +38,4 @@ This is free software, licensed under:
 
 =head1 SEE ALSO
 
+L<Task::Kensho>

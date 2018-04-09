@@ -1,11 +1,4 @@
-package Task::Kensho::All;
-
-use strict;
-use warnings;
-
-our $VERSION = '0.39';
-
-1;
+=pod
 
 =head1 NAME
 
@@ -39,3 +32,5 @@ This is free software, licensed under:
 =head1 SEE ALSO
 
 L<Task::Kensho>
+
+=cut

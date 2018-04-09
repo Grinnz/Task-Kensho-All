@@ -54,7 +54,7 @@
             "Task::Kensho::WebCrawling" : "0.39",
             "Task::Kensho::WebDev" : "0.39",
             "Task::Kensho::XML" : "0.39",
-            "perl" : "5.006"
+            "perl" : "5.010001"
          }
       },
       "test" : {

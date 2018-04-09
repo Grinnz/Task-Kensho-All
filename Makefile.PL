@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-use 5.006;
+use 5.010001;
 
 use ExtUtils::MakeMaker;
 
@@ -14,7 +14,7 @@ my %WriteMakefileArgs = (
   },
   "DISTNAME" => "Task-Kensho-All",
   "LICENSE" => "artistic_2",
-  "MIN_PERL_VERSION" => "5.006",
+  "MIN_PERL_VERSION" => "5.010001",
   "NAME" => "Task::Kensho::All",
   "PREREQ_PM" => {
     "Task::Kensho::Async" => "0.39",

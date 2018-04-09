@@ -1,4 +1,4 @@
-requires 'perl' => '5.006';
+requires 'perl' => '5.010001';
 requires 'Task::Kensho::Async' => '0.39';
 requires 'Task::Kensho::CLI' => '0.39';
 requires 'Task::Kensho::Config' => '0.39';

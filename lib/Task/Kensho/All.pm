@@ -17,8 +17,10 @@ Task::Kensho::All - Install all of Task::Kensho
 
 =head1 DESCRIPTION
 
-Installs every sub-task of L<Task::Kensho>. Don't use this unless you really
-want everything.
+Installs every sub-task of L<Task::Kensho|Task::Kensho/"DESCRIPTION">, a list
+of modules recommended by the
+L<Enlightened Perl Organisation|https://www.enlightenedperl.org>. Don't use
+this unless you really want everything.
 
 =head1 BUGS
 

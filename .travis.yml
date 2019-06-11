@@ -13,7 +13,6 @@ perl:
   - "5.8"
 matrix:
   allow_failures:
-    - perl:
-      - "5.12"
-      - "5.10"
-      - "5.8"
+    - perl: "5.12"
+    - perl: "5.10"
+    - perl: "5.8"

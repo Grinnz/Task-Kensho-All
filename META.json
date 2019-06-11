@@ -43,7 +43,7 @@
             "Task::Kensho::DBDev" : "0.40",
             "Task::Kensho::Dates" : "0.40",
             "Task::Kensho::Email" : "0.40",
-            "Task::Kensho::ExcelCSV" : "0.49",
+            "Task::Kensho::ExcelCSV" : "0.40",
             "Task::Kensho::Exceptions" : "0.40",
             "Task::Kensho::Hackery" : "0.40",
             "Task::Kensho::Logging" : "0.40",
